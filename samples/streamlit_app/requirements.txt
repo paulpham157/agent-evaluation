@@ -20,7 +20,7 @@ gitdb==4.0.11
 GitPython==3.1.43
 htbuilder==0.6.2
 idna==3.10
-Jinja2==3.1.4
+Jinja2==3.1.6
 jmespath==1.0.1
 jsonpath-ng==1.6.1
 jsonschema==4.23.0
@@ -54,7 +54,7 @@ python-dateutil==2.9.0.post0
 pytz==2024.2
 PyYAML==6.0.2
 referencing==0.35.1
-requests==2.32.3
+requests==2.32.4
 rich==13.9.2
 rpds-py==0.20.0
 s3transfer==0.10.2
@@ -76,7 +76,7 @@ streamlit-toggle-switch==1.0.2
 streamlit-vertical-slider==2.5.5
 tenacity==9.0.0
 toml==0.10.2
-tornado==6.4.2
+tornado==6.5.1
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
